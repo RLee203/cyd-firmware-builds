@@ -1,6 +1,6 @@
 # ESP32-DIV
 
-Merged firmware release for `ESP32-DIV` on `CYD 2.8`.
+Merged firmware release for `ESP32-DIV` on the `CYD 2.8-inch` variant.
 
 ## Release
 
@@ -9,7 +9,8 @@ Merged firmware release for `ESP32-DIV` on `CYD 2.8`.
 
 ## Board
 
-- Target: `CYD 2.8`
+- Target: `CYD 2.8-inch`
+- Variant note: this release is for the `2.8-inch` CYD model
 
 ## Source
 
