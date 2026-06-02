@@ -1,13 +1,13 @@
-# CYD Firmware Builds
+# CYD Custom Firmwares
 
-This repo is a small, organized collection of merged firmware `.bin` files for CYD board variants.
+This repo is a small, organized collection of custom firmware `.bin` files for different CYD variants.
 
 Each firmware gets its own folder with:
 
 - a short firmware README
 - one or more merged release binaries
 - target board details
-- the source project path or upstream reference
+- simple flashing info
 
 ## Layout
 
@@ -24,16 +24,14 @@ docs/
 firmware-index.md
 ```
 
-## Current firmware
+## Current firmwares
 
 - `ESP32-DIV` for `CYD 2.8-inch`
 
-## Variant note
+## Variants
 
-The current release in this repo is for the `CYD 2.8-inch` variant.
-
-More CYD variants can be added later in their own firmware folders or release entries as this repo grows.
+This repo is meant to grow over time with different custom CYD firmwares for different board variants.
 
 ## Purpose
 
-This repo is focused on release-ready merged binaries, not full source trees.
+This repo is focused on release-ready merged binaries that are easy to share, flash, and organize.

@@ -1,6 +1,6 @@
 # ESP32-DIV
 
-Merged firmware release for `ESP32-DIV` on the `CYD 2.8-inch` variant.
+Custom firmware release for `ESP32-DIV` on the `CYD 2.8-inch` variant.
 
 ## Release
 
@@ -21,3 +21,4 @@ Merged firmware release for `ESP32-DIV` on the `CYD 2.8-inch` variant.
 
 - This folder is only for the merged release binary.
 - Source code is not included in this repo.
+- This release is part of the broader CYD custom firmware collection.
