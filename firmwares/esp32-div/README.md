@@ -14,10 +14,10 @@ Merged firmware release for `ESP32-DIV` on the `CYD 2.8-inch` variant.
 
 ## Source
 
-- Local source project: `C:\Users\robes\Documents\PlatformIO\Projects\esp-div\ESP32-DIV`
-- Built artifact: `C:\Users\robes\Documents\PlatformIO\Projects\esp-div\ESP32-DIV\.pio\build\cyd-28\esp32-div-cyd28-merged.bin`
+- Source project: private local PlatformIO build
+- Built artifact: merged CYD 2.8-inch release binary
 
 ## Notes
 
 - This folder is only for the merged release binary.
-- Source code stays in the original project folder.
+- Source code is not included in this repo.
