@@ -16,6 +16,7 @@ Custom firmware release for `ESP32-DIV` on the `CYD 2.8-inch` variant.
 
 - Target: `CYD 2.8-inch`
 - Variant note: these releases are for `2.8-inch` CYD models with different hardware variants
+- Pinout reference: [pinout.md](./pinout.md)
 
 ## Source
 
