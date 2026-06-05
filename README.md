@@ -17,6 +17,7 @@ firmwares/
     README.md
     releases/
       <firmware>-<board>-merged.bin
+      <firmware>-<board>-v2-merged.bin
 
 docs/
   flashing.md
@@ -27,6 +28,13 @@ firmware-index.md
 ## Current firmwares
 
 - `ESP32-DIV` for `CYD 2.8-inch`
+
+## Current CYD 2.8-inch release files
+
+- `esp32-div-cyd28-merged.bin`
+- `esp32-div-cyd28-v2-merged.bin`
+
+If the normal firmware boots in `landscape`, try the `v2` firmware for the alternate 2.8-inch CYD variant.
 
 ## Variants
 
