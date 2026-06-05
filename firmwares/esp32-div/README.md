@@ -10,7 +10,7 @@ Custom firmware release for `ESP32-DIV` on the `CYD 2.8-inch` variant.
 
 - File: `esp32-div-cyd28-v2-merged.bin`
 - Flash address: `0x0`
-- Variant: alternate `CYD 2.8-inch` layout
+- Variant: alternate `CYD 2.8-inch` layout, including `CYD 2 USB v2`
 
 ## Board
 
@@ -28,3 +28,4 @@ Custom firmware release for `ESP32-DIV` on the `CYD 2.8-inch` variant.
 - Source code is not included in this repo.
 - This release is part of the broader CYD custom firmware collection.
 - If the default firmware boots in `landscape`, try `esp32-div-cyd28-v2-merged.bin`.
+- The `v2` release should work with `CYD 2 USB v2`.

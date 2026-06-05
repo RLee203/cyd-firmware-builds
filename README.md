@@ -34,7 +34,7 @@ firmware-index.md
 - `esp32-div-cyd28-merged.bin`
 - `esp32-div-cyd28-v2-merged.bin`
 
-If the normal firmware boots in `landscape`, try the `v2` firmware for the alternate 2.8-inch CYD variant.
+If the normal firmware boots in `landscape`, try the `v2` firmware for the alternate 2.8-inch CYD variant. It should work with `CYD 2 USB v2`.
 
 ## Variants
 
